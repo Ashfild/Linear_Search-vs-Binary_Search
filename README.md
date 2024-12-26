@@ -6,4 +6,4 @@ Program perbandingan efisiensi pencarian linear dengan pencarian biner dalam men
 - Ilhan Sahal Mansiz (2311102029)
 
 # POSTER
-![poster](https://github.com/user-attachments/assets/1b00885c-da0f-4249-8d9b-ac9d489dcd82)
+![poster](https://github.com/user-attachments/assets/eb135a45-64ba-40df-baf1-50f4cd505b99)
